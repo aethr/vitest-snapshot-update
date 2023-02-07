@@ -1,0 +1,17 @@
+{
+  "name": "vitest-snapshot-update",
+  "version": "1.0.0",
+  "description": "Reproduction for snapshot updating issue on linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Lindsay Gaines",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.28.4"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
